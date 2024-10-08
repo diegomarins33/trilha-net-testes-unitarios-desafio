@@ -79,3 +79,9 @@ O projeto está estruturado da seguinte maneira:
 
 ## Solução
 O código de testes está pela metade, e você deverá dar continuidade implementando os testes descritos acima, para que no final, tenhamos um programa de testes funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+
+
+✅ CONCLUÍDO EM 07/10/2024
+---
+![tests](https://github.com/user-attachments/assets/42873f3b-5b98-4938-aec1-0dd889fde3b2)
